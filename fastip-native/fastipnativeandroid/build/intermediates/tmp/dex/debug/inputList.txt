@@ -1,0 +1,2 @@
+C:\Users\Xing Yi\Desktop\demo\fastip-native\fastipnativeandroid\build\intermediates\classes\debug
+C:\Users\Xing Yi\Desktop\demo\fastip-native\fastipnativeandroid\build\intermediates\pre-dexed\debug\android-support-v4-8a49310807c0a807a9928578d1fc387762183646.jar

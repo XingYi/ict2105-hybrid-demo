@@ -1,0 +1,8 @@
+"C:/Users/Xing Yi/Documents/Titanium_Studio_Workspace/fastip-appcelerator-alloy/build/android/gen/android/support/v7/appcompat/R.java"
+"C:/Users/Xing Yi/Documents/Titanium_Studio_Workspace/fastip-appcelerator-alloy/build/android/gen/org/traeg/alloyfastip/AlloyfastipActivity.java"
+"C:/Users/Xing Yi/Documents/Titanium_Studio_Workspace/fastip-appcelerator-alloy/build/android/gen/org/traeg/alloyfastip/AlloyfastipAppInfo.java"
+"C:/Users/Xing Yi/Documents/Titanium_Studio_Workspace/fastip-appcelerator-alloy/build/android/gen/org/traeg/alloyfastip/AlloyfastipApplication.java"
+"C:/Users/Xing Yi/Documents/Titanium_Studio_Workspace/fastip-appcelerator-alloy/build/android/gen/org/traeg/alloyfastip/ApplicationStylesheet.java"
+"C:/Users/Xing Yi/Documents/Titanium_Studio_Workspace/fastip-appcelerator-alloy/build/android/gen/org/traeg/alloyfastip/AssetCryptImpl.java"
+"C:/Users/Xing Yi/Documents/Titanium_Studio_Workspace/fastip-appcelerator-alloy/build/android/gen/org/traeg/alloyfastip/R.java"
+"C:/Users/Xing Yi/Documents/Titanium_Studio_Workspace/fastip-appcelerator-alloy/build/android/gen/ti/modules/titanium/ui/R.java"

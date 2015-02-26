@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fastip-native.iml" filepath="$PROJECT_DIR$/fastip-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fastipnativeandroid/fastipnativeandroid.iml" filepath="$PROJECT_DIR$/fastipnativeandroid/fastipnativeandroid.iml" />
+    </modules>
+  </component>
+</project>
+

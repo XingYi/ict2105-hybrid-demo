@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Xing%20Yi/Desktop/demo/fastip-native/fastipnativeandroid/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <color name="tipColor">#0A0</color>
+    <!-- From: file:/C:/Users/Xing%20Yi/Desktop/demo/fastip-native/fastipnativeandroid/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">FasTip</string>
+    <string name="billAmount">Bill Amount</string>
+    <string name="calculateTip">Calculate Tip</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="percentSymbol">%</string>
+    <string name="saveSettings">Save Settings</string>
+    <string name="tipAmount">Tip Amount</string>
+    <string name="tipPercentage">Tip Percentage</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="totalAmount">Total Amount</string>
+    <!-- From: file:/C:/Users/Xing%20Yi/Desktop/demo/fastip-native/fastipnativeandroid/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
